@@ -1,0 +1,8 @@
+.allcontainer{
+    overflow: hidden;
+    padding: 90px 30px 50px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border-top: 10px solid rgb(255, 179, 14);
+    border-bottom: 10px solid rgb(255, 179, 14);
+  }
